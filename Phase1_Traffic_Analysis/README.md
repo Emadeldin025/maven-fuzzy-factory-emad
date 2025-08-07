@@ -34,7 +34,6 @@ This phase focuses on analyzing website traffic sources and optimizing marketing
 ## Tools Used
 - SQL (MySQL)
 - Power BI (Dashboards and Charts)
-- Excel (Data support)
 
 ---
 
