@@ -6,6 +6,10 @@ This phase examines how users behave once they arrive at the site. We evaluate l
 
 ---
 
+## 📷 Dashboard Preview
+
+![Dashboard Preview](Website%20M&T.png)
+
 ## Key Analyses
 
 ### 🔹 Landing Page Performance
@@ -29,7 +33,6 @@ This phase examines how users behave once they arrive at the site. We evaluate l
 ## Tools Used
 - SQL (MySQL)
 - Power BI (Multi-chart dashboard)
-- Excel (Data preparation)
 
 ---
 
